@@ -51,16 +51,16 @@ I found it makes sense to solve similar problems together, so that we can recogn
 |  1 | [Two Sum](https://leetcode.com/problems/two-sum/ "Two Sum") | ★★ | [560](https://leetcode.com/problems/subarray-sum-equals-k/ "560") |
 
 ### List
-|  Id | Name | Difficulty |  | Comments |
-| ---: | --- | :---: | :---: | --- |
-|  2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/ "Add Two Numbers") | ★★ | [445](https://leetcode.com/problems/add-two-numbers-ii/ "445") |  |
-|  24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/ "Swap Nodes in Pairs") | ★★ |  |  |
-|  206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/ "Reverse Linked List") | ★★ |  |  |
-|  141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/ "Linked List Cycle") | ★★ | [142](https://leetcode.com/problems/linked-list-cycle-ii "142") | fast/slow |
-|  23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/ "Merge k Sorted Lists") | ★★★ | [21](https://leetcode.com/problems/merge-two-sorted-lists/ "21") | priority_queue |
-|  147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/ "Insertion Sort List") | ★★★ |  | insertion sort |
-|  148 | [Sort List](https://leetcode.com/problems/sort-list/ "Sort List") | ★★★★ |  | merge sort O(1) space |
-|  707 | [Design Linked List](https://leetcode.com/problems/design-linked-list "Design Linked List") | ★★★★ |  |  |
+|  Id | Name | Difficulty |  | Comments | Status |
+| ---: | --- | :---: | :---: | --- | --- |
+|  2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/ "Add Two Numbers") | ★★ | [445](https://leetcode.com/problems/add-two-numbers-ii/ "445") |  | Done |
+|  24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/ "Swap Nodes in Pairs") | ★★ |  |  | Done |
+|  206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/ "Reverse Linked List") | ★★ |  |  | Done |
+|  141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/ "Linked List Cycle") | ★★ | [142](https://leetcode.com/problems/linked-list-cycle-ii "142") | fast/slow | Done |
+|  23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/ "Merge k Sorted Lists") | ★★★ | [21](https://leetcode.com/problems/merge-two-sorted-lists/ "21") | priority_queue | Done |
+|  147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/ "Insertion Sort List") | ★★★ |  | insertion sort |  |
+|  148 | [Sort List](https://leetcode.com/problems/sort-list/ "Sort List") | ★★★★ |  | merge sort O(1) space | Done |
+|  707 | [Design Linked List](https://leetcode.com/problems/design-linked-list "Design Linked List") | ★★★★ |  |  | Done |
 
 ### Tree
 |  Id | Name | Difficulty |  |  |  |  |  |  | Comments |
